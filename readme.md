@@ -1,7 +1,5 @@
 # Amazon Prime Analysis Dashboard
 
-![Dashboard](https://docs.appian.com/suite/help/22.3/sail/ds-images/uxds_images/sales_dashboard_dark_theme.png)
-
 ## Overview
 
 This repository contains files related to an Amazon Prime Analysis Dashboard. The dashboard is designed to provide insights and analytics related to Amazon Prime titles and their performance.
